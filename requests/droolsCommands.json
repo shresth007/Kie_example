@@ -1,0 +1,7 @@
+{
+  "commands" : [ 
+    { "insert" : { "object" : "Process1"   } }, 
+    { "insert" : { "object" : "Process2" } }, 
+    { "fire-all-rules" : { } }
+  ]
+}
